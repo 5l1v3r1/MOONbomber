@@ -1,2 +1,0 @@
-pip install pyinstaller
-pyinstaller --onefile  --name MOONbomber -w -i Lune_ico.ico MOONbomber.py
